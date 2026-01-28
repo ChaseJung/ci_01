@@ -174,7 +174,7 @@
 
   /* Before/after card */
   .ba-card {
-    @apply relative overflow-hidden rounded-xl aspect-[3/4] group cursor-pointer;
+    @apply relative overflow-hidden rounded-xl aspect-[3/4] cursor-pointer;
   }
 
   .ba-card img {
